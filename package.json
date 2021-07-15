@@ -18,6 +18,7 @@
   "homepage": "https://github.com/a8397550/mocha-demo#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "chai": "^4.3.4"
+    "chai": "^4.3.4",
+    "qs": "^6.10.1"
   }
 }

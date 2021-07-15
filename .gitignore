@@ -3,6 +3,7 @@ node_modules
 /dist
 /.history
 test
+lib/libConfig.js
 # local env files
 .env.local
 .env.*.local
